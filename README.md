@@ -6,3 +6,5 @@ v0 - This is a simple but functional webapp that allows you to chat with the LLM
 v0.1 - reworks some features and allows the user to select a model from their local Ollama instance.  Still skimpy on features.
 
 v0.2 - Allows the user to set the client url and abstracted the API from the main script body.
+
+v0.3 - Incorporated the LangChain libraries, added a Thinking... animation
