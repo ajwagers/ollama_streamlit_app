@@ -8,3 +8,7 @@ v0.1 - reworks some features and allows the user to select a model from their lo
 v0.2 - Allows the user to set the client url and abstracted the API from the main script body.
 
 v0.3 - Incorporated the LangChain libraries, added a Thinking... animation
+
+v0.4 - Added the ability to save and reload chats.
+
+v0.5 - Added a text input box for a RAG system as well as persistent memory across sessions.
