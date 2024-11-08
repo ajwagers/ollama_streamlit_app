@@ -14,3 +14,5 @@ v0.4 - Added the ability to save and reload chats.
 v0.5 - Added a text input box for a RAG system as well as persistent memory across sessions.
 
 v0.6 - Added support for multiple file types to be ingested as part of the RAG system.  Cleaned up some UI issues.
+
+v0.7 - Made the sidebar collapsible by sections to clean up the appearance.  Also, added the ability to define a custom URL for the ChromaDB vector storage.
