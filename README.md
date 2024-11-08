@@ -12,3 +12,5 @@ v0.3 - Incorporated the LangChain libraries, added a Thinking... animation
 v0.4 - Added the ability to save and reload chats.
 
 v0.5 - Added a text input box for a RAG system as well as persistent memory across sessions.
+
+v0.6 - Added support for multiple file types to be ingested as part of the RAG system.  Cleaned up some UI issues.
